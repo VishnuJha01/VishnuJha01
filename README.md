@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vishnukumarjha05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/vishnu-kumar-jha/</h3>
 <p align="left">
 </p>
 
