@@ -11,6 +11,20 @@
 <p align="left">
 </p>
 
+## 🚀 Featured Projects
+
+- 🔹 **SmartPark Parking System**
+  - Flask + SQLAlchemy + Vue
+  - Multi-user booking system with analytics dashboard
+
+- 🔹 **Demand & Inventory Analysis (KD Hero)**
+  - Time Series + EOQ + ABC Analysis
+  - Reduced inventory inefficiencies using Python & Excel
+
+- 🔹 **LLM Task Automation API**
+  - Converts plain English into executable backend tasks
+  - Built with secure API design and Docker deployment
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
