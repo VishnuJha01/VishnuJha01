@@ -20,9 +20,6 @@
 <p align="left">
 </p>
 
-<img align="right" alt="Coding" width="350" 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 🚀 Featured Projects
 
 - 🔹 **SmartPark Parking System**
@@ -36,6 +33,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔹 **LLM Task Automation API**
   - Converts plain English into executable backend tasks
   - Built with secure API design and Docker deployment
+
+<img align="right" alt="Developer" width="320" 
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">💻 Languages:</h3>
 
