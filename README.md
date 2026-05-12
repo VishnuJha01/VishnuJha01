@@ -6,8 +6,13 @@
 - 💬 Ask me about **Python, Flask, Vue.js, SQL, JavaScript, Java, HTML, CSS, Bootstrap, Data Analysis**
 
 - 📫 How to reach me **vishnukumarjha05@gmail.com**
+## 🌐 Connect With Me
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/vishnu-kumar-jha/</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vishnu-kumar-jha/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+</a>
+</p>
 <p align="left">
 </p>
 
