@@ -78,3 +78,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40"/>
 </p>
+
+<img align="right" alt="Coding" width="350" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
