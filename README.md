@@ -34,9 +34,6 @@
   - Converts plain English into executable backend tasks
   - Built with secure API design and Docker deployment
 
-<img align="right" alt="Developer" width="320" 
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <h3 align="left">💻 Languages:</h3>
 
 <p align="left">
